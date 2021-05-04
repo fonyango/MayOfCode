@@ -1,4 +1,4 @@
-# MayOfCode
+# May of Code
 
 This is my challenge to code each day of the Month of May 2021.
 
