@@ -11,6 +11,6 @@ This is my challenge to code each day of the Month of May 2021.
 - Code daily
 - Build my portfolio
 - Improve my git command line skills
-- Develop my understanding and conceptulization of Python Data Structures and Algorithms
+- Develop my understanding and conceptualization of Python Data Structures and Algorithms
        
 **Resource:**  [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
