@@ -5,6 +5,7 @@ This is my challenge to code each day of the Month of May 2021.
 **Commitment:** To code daily through the month of May 2021.
 
 *Start Date:* 2nd May 2021
+
 *End Date:* 31 May 2021
 
 **Goals:** 
