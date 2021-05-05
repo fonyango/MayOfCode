@@ -16,6 +16,8 @@ This is my challenge to code each day of the Month of May 2021.
        
 **Resource:**  [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
 
+___
+
 #### Day 04: Wednesday, 5th May 2021
 
 I was able to work on 3 coding excercises by writing simple funtions that can:
