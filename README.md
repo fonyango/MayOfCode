@@ -16,12 +16,12 @@ This is my challenge to code each day of the Month of May 2021.
        
 **Resource:**  [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
 
-**Day 04:**
+**Day 04: Wednesday, 5th May 2021**
 
-I was able to work on 3 coding excercise by writing simple funtions that can:
+I was able to work on 3 coding excercises by writing simple funtions that can:
 
 - Find the dot product of arrays element-wise.
 - Count vowels in a string.
 - Remove punctuations from a sentence.
 
-In each case, I explored different ways to achieve the same results.
+In each case, I explored different ways and tricks in finding the solutions.
