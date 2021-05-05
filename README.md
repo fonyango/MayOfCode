@@ -22,9 +22,9 @@ ___
 
 I was able to work on 3 coding excercises by writing simple funtions that can:
 
-- Find the dot product of arrays element-wise.
-- Count vowels in a string.
-- Remove punctuations from a sentence.
+- find the dot product of arrays element-wise.
+- count vowels in a string.
+- remove punctuations from a sentence.
 
 In each case, I explored different ways and tricks in finding the solutions.
 
