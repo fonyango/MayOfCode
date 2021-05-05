@@ -27,3 +27,20 @@ I was able to work on 3 coding excercises by writing simple funtions that can:
 - Remove punctuations from a sentence.
 
 In each case, I explored different ways and tricks in finding the solutions.
+
+___
+
+#### Day 03: Tuesday, 4th May 2021
+
+I completed 4 coding questions by writing python programs that can do the following:
+
+- determines if there is a distinct pair of numbers in a sequence whose
+product is odd.
+- takes a sequence of numbers and determines
+if all the numbers are different from each other (that is, they are distinct)
+- use Python’s list comprehension syntax to produce
+the list [0, 2, 6, 12, 20, 30, 42, 56, 72, 90].
+- using only the randint function,
+implement your own version of the shuffle function.
+
+It was so exciting to successfully find a solution to the exercises.
