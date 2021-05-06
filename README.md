@@ -62,3 +62,16 @@ range with values 50, 60, 70, 80?
 the list [1, 2, 4, 8, 16, 32, 64, 128, 256].
 
 A good day indeed. Comprehension syntax is very convinient.
+
+___
+
+#### Day One: Sunday, 2nd May 2021
+
+This was the first day of the challenge. I decided to pick [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279) as my resource material for the challenge. This is one of the materials I will be using to study as I work on the challenge.
+
+I started by writing basic funtions capable of doing the following:
+
+- takes two integer values and returns True if n is a multiple of m, that is, n = mi for some
+integer i, and False otherwise.
+- takes an integer value and returns True if k is even, and False otherwise. 
+- 
