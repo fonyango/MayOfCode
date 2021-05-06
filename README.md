@@ -25,7 +25,6 @@ I explored the use of while loop and break to writing some programs that do the 
 - repeatedly prompts the user for an integer. If the integer is even, print the integer. If the integer is odd, don’t print anything. Exit the program if the user enters the integer 99.
 - prompts the user to enter integers until the user enters a negative integer. The negative integer should be discarded, and you should print the average of
 all the previously entered integers.
-'''
 
 ___
 
