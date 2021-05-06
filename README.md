@@ -44,3 +44,21 @@ the list [0, 2, 6, 12, 20, 30, 42, 56, 72, 90].
 implement your own version of the shuffle function.
 
 It was so exciting to successfully find a solution to the exercises.
+
+___
+
+#### Day Two: Monday, 3rd May 2021
+
+I was excited to get to the second day by working on some 4 exercises. It involved creating short python functions that can peform the following:
+
+- use Python’s list comprehension syntax to produce
+the list [ a , b , c , ..., z ], but without having to type all 26 such
+characters literally.
+- get parameters should be sent to the range constructor, to produce a
+range with values 8, 6, 4, 2, 0, −2, −4, −6, −8?
+- get parameters should be sent to the range constructor, to produce a
+range with values 50, 60, 70, 80?
+- use Python’s list comprehension syntax to produce
+the list [1, 2, 4, 8, 16, 32, 64, 128, 256].
+
+A good day indeed. Comprehension syntax is very convinient.
