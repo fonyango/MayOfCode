@@ -74,4 +74,7 @@ I started by writing basic funtions capable of doing the following:
 - takes two integer values and returns True if n is a multiple of m, that is, n = mi for some
 integer i, and False otherwise.
 - takes an integer value and returns True if k is even, and False otherwise. 
-- 
+- takes a positive integer n and returns the squares of all the positive integers smaller than n.
+- takes a positive integer k and returns a list of the squares of all the positive even integers smaller than k.
+- takes a positive integer k and returns a dictionary of all positive odd integers smaller than k as keys and squares of 
+the positive odd integers smaller than k as values.
