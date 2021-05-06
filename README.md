@@ -18,6 +18,17 @@ This is my challenge to code each day of the Month of May 2021.
 
 ___
 
+#### Day 05: Thursday, 6th May 2021
+
+I explored the use of while loop and break to writing some programs that do the following:
+
+- repeatedly prompts the user for an integer. If the integer is even, print the integer. If the integer is odd, don’t print anything. Exit the program if the user enters the integer 99.
+- prompts the user to enter integers until the user enters a negative integer. The negative integer should be discarded, and you should print the average of
+all the previously entered integers.
+'''
+
+___
+
 #### Day 04: Wednesday, 5th May 2021
 
 I was able to work on 3 coding excercises by writing simple funtions that can:
