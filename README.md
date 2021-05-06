@@ -57,7 +57,7 @@ It was so exciting to successfully find a solution to the exercises.
 
 ___
 
-#### Day Two: Monday, 3rd May 2021
+#### Day 02: Monday, 3rd May 2021
 
 I was excited to get to the second day by working on some 4 exercises. It involved creating short python functions that can peform the following:
 
@@ -75,7 +75,7 @@ A good day indeed. Comprehension syntax is very convinient.
 
 ___
 
-#### Day One: Sunday, 2nd May 2021
+#### Day 01: Sunday, 2nd May 2021
 
 This was the first day of the challenge. I decided to pick [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279) as my resource material for the challenge. This is one of the materials I will be using to study as I work on the challenge.
 
