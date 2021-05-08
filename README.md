@@ -15,7 +15,20 @@ This is my challenge to code each day of the Month of May 2021.
 - Develop my understanding and conceptualization of Python Data Structures and Algorithms
        
 **Resource:**  [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
+___
 
+#### Day 07: Saturday, 8th May 2021
+
+THis excercise involved working with lambda functions and rewriting the functions as named fucntions. I was able to write functions as both lambda and named fucntions that can do the following:
+
+- calculates the square of x.
+- calculates the square root of the sum of squares of x and y.
+- calculates the average of parameters of any number.
+- returns a string of unique values from an input string.
+___
+#### Day 06: Friday, 7th May 2021
+
+I did not manage to work on any excerise. The day was a bit busy for me. However, I was able to read the resource book on Error Handling.
 ___
 
 #### Day 05: Thursday, 6th May 2021
