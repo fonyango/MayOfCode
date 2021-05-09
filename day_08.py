@@ -7,10 +7,10 @@ number by 2 before getting a value less than 2.
 
 def divide_by_two(x):
     ''' 
-    Determines number of times one must repeatedly divide a positive integer greater
+    Determines the number of times one must repeatedly divide a positive integer greater
     than 2 by 2 before getting a value less than 2
 
-    param x: a positive integr greater than 2
+    param x: a positive integer greater than 2
     return : number of times x is divided by 2 before getting a value less than 2
     '''
     counter = 0         # initialize a counter
