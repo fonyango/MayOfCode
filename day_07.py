@@ -1,4 +1,4 @@
-# --- DAY SIX --- 
+# --- DAY SEVEN --- 
 ''' 
 1. Define the following functions as lambdas, and assign them to variables:
 (a) Take one parameter; return its square
