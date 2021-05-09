@@ -17,6 +17,14 @@ This is my challenge to code each day of the Month of May 2021.
 **Resource:**  [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
 ___
 
+#### Day 08: Sunday, 9th May 2021
+
+After brainstorming for over 1 hour, I was able to write a program that can take a positive integer greater than 2 as
+input and write out the number of times one must repeatedly divide this
+number by 2 before getting a value less than 2.
+
+I'm so excited that finally I was able to successfully write it.
+___
 #### Day 07: Saturday, 8th May 2021
 
 THis excercise involved working with lambda functions and rewriting the functions as named fucntions. I was able to write functions as both lambda and named fucntions that can do the following:
