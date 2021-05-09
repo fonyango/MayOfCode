@@ -4,10 +4,23 @@
 input and write out the number of times one must repeatedly divide this
 number by 2 before getting a value less than 2.
 '''
-x = int(input("Enter a positive integer: "))
-counter = 0
-while x > 2:
-    x = x / 2
-    counter +=1
-print(counter)
 
+def divide_by_two(x):
+    ''' 
+    Determines number of times one must repeatedly divide a positive integer greater
+    than 2 by 2 before getting a value less than 2
+
+    param x: a positive integr greater than 2
+    return : number of times x is divided by 2 before getting a value less than 2
+    '''
+    counter = 0         # initialize a counter
+    while x > 2:
+        x = x / 2
+        counter +=1
+    return counter
+
+# test if the function is working
+print(divide_by_two(8))
+print(divide_by_two(32))
+print(divide_by_two(49))
+print(divide_by_two(1000))
