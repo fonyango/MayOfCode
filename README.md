@@ -11,10 +11,20 @@ This is my challenge to code each day of the Month of May 2021.
 **Goals:** 
 - Code daily
 - Build my portfolio
-- Improve my git command line skills
+- Improve my git and github skills
 - Develop my understanding and conceptualization of Python Data Structures and Algorithms
        
 **Resource:**  [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
+___
+
+#### Day 09: Monday, 10th May 2021
+
+I'm so happy to get into a new week and still passionate about this coding challenge. Today I created a program that simulates a calculator with the following details:
+
+- uses the console as the exclusive input and output device.
+- each input to the calculator can be done on a separate line.
+- outputs to the Python console what would be displayed on your calculator.
+
 ___
 
 #### Day 08: Sunday, 9th May 2021
@@ -27,7 +37,7 @@ I'm so excited that finally I was able to successfully write it.
 ___
 #### Day 07: Saturday, 8th May 2021
 
-THis excercise involved working with lambda functions and rewriting the functions as named fucntions. I was able to write functions as both lambda and named fucntions that can do the following:
+This excercise involved working with lambda functions and rewriting the functions as named fucntions. I was able to write functions as both lambda and named fucntions that can do the following:
 
 - calculates the square of x.
 - calculates the square root of the sum of squares of x and y.
