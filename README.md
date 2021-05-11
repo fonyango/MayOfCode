@@ -20,6 +20,7 @@ ___
 #### Day 10: Tuesday 11th May 2021
 
 This day is about calculations! I was able to create two programs that perform the following:
+
 __1. a program to assign grades to students at the end of the year.__
 
 - This program asks the user to input student number, test marks and tutorial marks. 
@@ -27,7 +28,7 @@ __1. a program to assign grades to students at the end of the year.__
 - If the students scores above 40%, it prompts the user to input examination marks
 - The program calculates the final marks such that test mark and tutorial mark accounts for 25% each while examination marks accounts for 50%.
 - Finally the program assigns grades to the student based on their final marks.
-- 
+
 __2. a simple calculator with a menu__
 
 - This program prompts the user to perform arithmetic operations based on the provided menu assigned to integers 0 - 4 (inclusive).
