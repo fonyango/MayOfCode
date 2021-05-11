@@ -17,6 +17,25 @@ This is my challenge to code each day of the Month of May 2021.
 **Resource:**  [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
 ___
 
+#### Day 10: Tuesday 11th May 2021
+
+This day is about calculations! I was able to create two programs that perform the following:
+__1. a program to assign grades to students at the end of the year.__
+
+- This program asks the user to input student number, test marks and tutorial marks. 
+- It the computes the average marks. If the student scores below 40% the student it not permiitted to do examination. The programs exits without performing further steps.
+- If the students scores above 40%, it prompts the user to input examination marks
+- The program calculates the final marks such that test mark and tutorial mark accounts for 25% each while examination marks accounts for 50%.
+- Finally the program assigns grades to the student based on their final marks.
+- 
+__2. a simple calculator with a menu__
+
+- This program prompts the user to perform arithmetic operations based on the provided menu assigned to integers 0 - 4 (inclusive).
+- If the user selects any of the provided menu except 0, the program prompts the user to input two numbers on which the selected operation will be performed.
+- If the user selects 0, the program exits.
+- However, if the user enters an invalid integer, the program ignores and displays the menu.
+___
+
 #### Day 09: Monday, 10th May 2021
 
 I'm so happy to get into a new week and still passionate about this coding challenge. Today I created a program that simulates a calculator with the following details:
