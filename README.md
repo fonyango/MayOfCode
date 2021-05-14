@@ -17,6 +17,11 @@ This is my challenge to code each day of the Month of May 2021.
 **Resource:**  [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
 ___
 
+#### Day 12: Thursday, 13th May 2021
+
+On this day I was extremely tired and unable to do anything on this challenge. May be a good time to rest, but the challenge continues.
+___
+
 #### Day 11: Wednesday, 12th May 2021
 
 After a very busy day, I was able to do some mathematical operations using python. I wrote a program that can calculate employees total weekly pay, given different parameters for calculation. 
