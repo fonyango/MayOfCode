@@ -17,6 +17,17 @@ This is my challenge to code each day of the Month of May 2021.
 **Resource:**  [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
 ___
 
+#### Day 14: Saturday, 15th May 2021
+
+Here I did a refresher on loops. I focussed on how to use as minimum loops as possible and still achieve efficiency. My task was on writing programs that can perfomr the following:
+
+- Find the total of numbers 1 to 10
+- Calculate factorial of a number
+- Takes in 10 floating point numbers and prints their average, sum and product
+
+This marks the end of the python basics. From tomorrow, I will be diving into Object-Oriented Programming (OOP). I'm really looking forward learning more about classes and methods.
+___
+
 #### Day 13: Friday, 14th May 2021
 
 I was able to dive in an exercise about list manipulations. In this exercise I was able to:
