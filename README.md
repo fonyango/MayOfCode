@@ -17,6 +17,12 @@ This is my challenge to code each day of the Month of May 2021.
 **Resource:**  [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
 ___
 
+#### Day 15: Sunday, 16th May 2021
+
+I started working on Object-Oriented Programming tasks. 
+
+___
+
 #### Day 14: Saturday, 15th May 2021
 
 Here I did a refresher on loops. I focussed on how to use as minimum loops as possible and still achieve efficiency. My task was on writing programs that can perfomr the following:
