@@ -17,6 +17,11 @@ This is my challenge to code each day of the Month of May 2021.
 **Resource:**  [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
 ___
 
+#### Day 16: Monday, 17th May 2021
+
+I delved into further reading of concepts of Object-Oriented Programming. 
+___
+
 #### Day 15: Sunday, 16th May 2021
 
 I started working on Object-Oriented Programming tasks. 
