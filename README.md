@@ -17,8 +17,11 @@ This is my challenge to code each day of the Month of May 2021.
 **Resource:**  [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
 ___
 
-#### Day 18: Wednesday, 19th May 2021
+#### Day 20: Friday, 21st May 2021
 
+I decided to follow a tutorial by codebasics on YouTube. I then did an excersises on lists manipulation.
+___
+#### Day 18: Wednesday, 19th May 2021
 
 ___
 
