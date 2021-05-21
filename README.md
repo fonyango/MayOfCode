@@ -22,6 +22,11 @@ ___
 I decided to follow a tutorial by codebasics on YouTube. I then did an excersises on lists manipulation.
 ___
 
+#### Day 19: Thursday, 20th May 2021
+
+I wrote a program that simulates a calculator using class and methods.
+___
+
 #### Day 18: Wednesday, 19th May 2021
 I practiced how to write classes by writing a program that employs a class Numbers. The class contained the following:
 
