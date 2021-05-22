@@ -21,7 +21,7 @@ ___
 
 I worked on a project to create a calculator using tkinter module. 
 
-[GUI](D:\Francis\YDG\100DaysofCode\Day21\MayOfCode)
+[GUI](D:\Francis\YDG\100DaysofCode\Day21\MayOfCode\calculator-gui.PNG)
 ___
 
 #### Day 20: Friday, 21st May 2021
