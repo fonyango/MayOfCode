@@ -21,7 +21,7 @@ ___
 
 I finalized on the calculator by adding color schemes to make it look better.
 
-[image](https://github.com/fonyango/MayOfCode/blob/main/calculator-interface.PNG)
+![image](https://github.com/fonyango/MayOfCode/blob/main/calculator-interface.PNG)
 ___
 
 #### Day 21: Saturdy, 22nd May 2021
