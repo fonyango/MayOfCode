@@ -17,6 +17,13 @@ This is my challenge to code each day of the Month of May 2021.
 **Resource:**  [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
 ___
 
+#### Day 22: Sunday, 23rd May 2021
+
+I finalized on the calculator by adding color schemes to make it look better.
+
+[image](https://github.com/fonyango/MayOfCode/blob/main/calculator-interface.PNG)
+___
+
 #### Day 21: Saturdy, 22nd May 2021
 
 I worked on a project to create a calculator using tkinter module. 
