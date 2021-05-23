@@ -4,7 +4,7 @@ from tkinter import *
 # initialize window manager
 window = Tk()
 
-# specify geometry of the window and prevent resising
+# specify geometry of the window and prevent resizing
 window.geometry("312x324")
 window.resizable(0,0)
 
@@ -60,31 +60,31 @@ buttons_frame = Frame(window, width=312, height=272.5, bg='grey')
 buttons_frame.pack()
 
 # create 'Clear (C)' and 'Divide (/)' buttons on the first row
-clear = Button(buttons_frame, text='C', fg='black', width=32, height=3,bd=0, bg='#eee',cursor='hand2', command=lambda:clear_button()).grid(row=0,column=0,columnspan=3, padx=1, pady=1)
-divide = Button(buttons_frame, text='/',fg='black',width=10, height=3, bd=0, bg='#eee',cursor='hand2',command=lambda:click_button("/")).grid(row=0,column=3, padx=1, pady=1)
+clear = Button(buttons_frame, text='C', fg='snow', width=32, height=3,bd=0, bg='blue4',cursor='hand2', command=lambda: clear_button()).grid(row=0,column=0,columnspan=3, padx=1, pady=1)
+divide = Button(buttons_frame, text='/',fg='snow',width=10, height=3, bd=0, bg='blue4',cursor='hand2',command=lambda: click_button("/")).grid(row=0,column=3, padx=1, pady=1)
 
 # create buttons '7', '8', '9' and 'Multiply (*)'
-seven = Button(buttons_frame, text='7',fg='black', width=10, height=3, bd = 0, bg='#fff', cursor='hand2', command=lambda:click_button(7)).grid(row=1,column=0,padx=1,pady=1)
-eight = Button(buttons_frame, text='8', fg='black', width=10, height=3, bd=0, bg='#fff',cursor='hand2',command=lambda:click_button(8)).grid(row=1,column=1,padx=1,pady=1)
-nine = Button(buttons_frame, text='9',fg='black', width=10, height=3, bd=0, bg='#fff',cursor='hand2',command=lambda:click_button(9)).grid(row=1, column=2,padx=1, pady=1)
-multiply = Button(buttons_frame, text = "*", fg = "black", width = 10, height = 3, bd = 0, bg = "#eee", cursor = "hand2", command = lambda: click_button("*")).grid(row = 1, column = 3, padx = 1, pady = 1)
+seven = Button(buttons_frame, text='7',fg='black', width=10, height=3, bd = 0, bg='#fff', cursor='hand2', command=lambda: click_button(7)).grid(row=1,column=0,padx=1,pady=1)
+eight = Button(buttons_frame, text='8', fg='black', width=10, height=3, bd=0, bg='#fff',cursor='hand2',command=lambda: click_button(8)).grid(row=1,column=1,padx=1,pady=1)
+nine = Button(buttons_frame, text='9',fg='black', width=10, height=3, bd=0, bg='#fff',cursor='hand2',command=lambda: click_button(9)).grid(row=1, column=2,padx=1, pady=1)
+multiply = Button(buttons_frame, text = "x", fg = "snow", width = 10, height = 3, bd = 0, bg = "blue4", cursor = "hand2", command = lambda: click_button("*")).grid(row = 1, column = 3, padx = 1, pady = 1)
 
-# create buttons '4', '5', '6' and Subtract (-)'
-four = Button(buttons_frame, text='4',fg='black', width=10, height=3, bd = 0, bg='#fff', cursor='hand2', command=lambda:click_button(4)).grid(row=2,column=0,padx=1,pady=1)
-five = Button(buttons_frame, text='5', fg='black', width=10, height=3, bd=0, bg='#fff',cursor='hand2',command=lambda:click_button(5)).grid(row=2,column=1,padx=1,pady=1)
-six = Button(buttons_frame, text='6',fg='black', width=10, height=3, bd=0, bg='#fff',cursor='hand2',command=lambda:click_button(6)).grid(row=2, column=2,padx=1, pady=1)
-subtract = Button(buttons_frame, text = "-", fg = "black", width = 10, height = 3, bd = 0, bg = "#eee", cursor="hand2", command=lambda:click_button("-")).grid(row = 2,column=3, padx = 1, pady = 1)
+# create buttons '4', '5', '6' and 'Subtract (-)'
+four = Button(buttons_frame, text='4',fg='black', width=10, height=3, bd = 0, bg='#fff', cursor='hand2', command=lambda: click_button(4)).grid(row=2,column=0,padx=1,pady=1)
+five = Button(buttons_frame, text='5', fg='black', width=10, height=3, bd=0, bg='#fff',cursor='hand2',command=lambda: click_button(5)).grid(row=2,column=1,padx=1,pady=1)
+six = Button(buttons_frame, text='6',fg='black', width=10, height=3, bd=0, bg='#fff',cursor='hand2',command=lambda: click_button(6)).grid(row=2, column=2,padx=1, pady=1)
+subtract = Button(buttons_frame, text = "-", fg = "snow", width = 10, height = 3, bd = 0, bg = "blue4", cursor="hand2", command=lambda: click_button("-")).grid(row = 2,column=3, padx = 1, pady = 1)
 
-# create buttons '1', '2', '3' and Addition (+)'
-one = Button(buttons_frame, text='1',fg='black', width=10, height=3, bd = 0, bg='#fff', cursor='hand2', command=lambda:click_button(1)).grid(row=3,column=0,padx=1,pady=1)
-two = Button(buttons_frame, text='2', fg='black', width=10, height=3, bd=0, bg='#fff',cursor='hand2',command=lambda:click_button(2)).grid(row=3,column=1,padx=1,pady=1)
-three = Button(buttons_frame, text='3',fg='black', width=10, height=3, bd=0, bg='#fff',cursor='hand2',command=lambda:click_button(3)).grid(row=3, column=2,padx=1, pady=1)
-addition = Button(buttons_frame, text = "+", fg = "black", width = 10, height = 3, bd = 0, bg = "#eee", cursor="hand2", command=lambda:click_button("+")).grid(row = 3,column=3, padx = 1, pady = 1)
+# create buttons '1', '2', '3' and 'Addition (+)'
+one = Button(buttons_frame, text='1',fg='black', width=10, height=3, bd = 0, bg='#fff', cursor='hand2', command=lambda: click_button(1)).grid(row=3,column=0,padx=1,pady=1)
+two = Button(buttons_frame, text='2', fg='black', width=10, height=3, bd=0, bg='#fff',cursor='hand2',command=lambda: click_button(2)).grid(row=3,column=1,padx=1,pady=1)
+three = Button(buttons_frame, text='3',fg='black', width=10, height=3, bd=0, bg='#fff',cursor='hand2',command=lambda: click_button(3)).grid(row=3, column=2,padx=1, pady=1)
+addition = Button(buttons_frame, text = "+", fg = "snow", width = 10, height = 3, bd = 0, bg = "blue4", cursor="hand2", command=lambda: click_button("+")).grid(row = 3,column=3, padx = 1, pady = 1)
 
 # create buttons '0', '.', '=' 
-zero = Button(buttons_frame, text='0',fg='black', width=21, height=3, bd = 0, bg='#fff', cursor='hand2', command=lambda:click_button(0)).grid(row=4,column=0,padx=1,pady=1)
-decimal = Button(buttons_frame, text='.', fg='black', width=10, height=3, bd=0, bg='#eee',cursor='hand2',command=lambda:click_button(".")).grid(row=4,column=2,padx=1,pady=1)
-equal = Button(buttons_frame, text = "=", fg = "black", width = 10, height = 3, bd = 0, bg = "#eee", cursor="hand2", command=lambda:equals_to_button()).grid(row = 4,column=3, padx = 1, pady = 1)
+zero = Button(buttons_frame, text = "0", fg = "black", width = 21, height = 3, bd = 0, bg = '#fff', cursor = 'hand2', command = lambda: click_button(0)).grid(row = 4, column = 0, columnspan = 2, padx = 1, pady = 1)
+point = Button(buttons_frame, text =".", fg = "black", width = 10, height = 3, bd = 0, bg = '#fff',cursor = 'hand2',command = lambda: click_button(".")).grid(row = 4, column = 2, padx = 1, pady = 1)
+equals = Button(buttons_frame, text = "=", fg = "snow", width = 10, height = 3, bd = 0, bg = "blue4", cursor = "hand2", command = lambda: equals_to_button()).grid(row = 4, column = 3, padx = 1, pady = 1)
 
 # display the window until manually closed
 window.mainloop()
