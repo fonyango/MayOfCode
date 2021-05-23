@@ -28,7 +28,9 @@ ___
 
 #### Day 21: Saturdy, 22nd May 2021
 
-I worked on a project to create a calculator using tkinter module. I worked on the back end functionalities and a simple GUI.
+I worked on a project to create a calculator using tkinter module. I worked on the back end functionalities and a simple GUI. 
+
+This was inspired by this tutorial from [data camp](https://www.datacamp.com/community/tutorials/gui-tkinter-python)
 ___
 
 #### Day 20: Friday, 21st May 2021
