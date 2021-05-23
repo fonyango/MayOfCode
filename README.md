@@ -20,8 +20,6 @@ ___
 #### Day 21: Saturdy, 22nd May 2021
 
 I worked on a project to create a calculator using tkinter module. 
-![alt text](D:\Francis\YDG\100DaysofCode\Day21\MayOfCode\calclator-gui.PNG)
-
 ___
 
 #### Day 20: Friday, 21st May 2021
