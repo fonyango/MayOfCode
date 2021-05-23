@@ -21,12 +21,14 @@ ___
 
 I finalized on the calculator by adding color schemes to make it look better.
 
+Here is the GUI of the calculator.
+
 ![image](https://github.com/fonyango/MayOfCode/blob/main/calculator-interface.PNG)
 ___
 
 #### Day 21: Saturdy, 22nd May 2021
 
-I worked on a project to create a calculator using tkinter module. 
+I worked on a project to create a calculator using tkinter module. I worked on the back end functionalities and a simple GUI.
 ___
 
 #### Day 20: Friday, 21st May 2021
