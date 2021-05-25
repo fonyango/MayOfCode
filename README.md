@@ -1,6 +1,6 @@
 # May of Code
 
-This is my challenge to code each day of the Month of May 2021.
+This is my challenge to code each day of the Month of May 2021 while documenting the journey here.
 
 **Commitment:** To code daily through the month of May 2021.
 
