@@ -17,6 +17,11 @@ This is my challenge to code each day of the Month of May 2021.
 **Resource:**  [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
 ___
 
+#### Day 24: Tuesday, 25th May 2021
+
+I studied more about linked lists and their implementation in python.
+___
+
 #### Day 23: Monday, 24th May 2021
 
 I worked on more lists using codebasics exercises. I continued with more advanced list manipulations.
