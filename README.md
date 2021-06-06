@@ -17,6 +17,10 @@ This is my challenge to code each day of the Month of May 2021 while documenting
 **Resource:**  [Data Strutures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
 ___
 
+#### Day 30: Monday, 31st May 2021
+
+This is the last day of May 2021. I didn't manage to finalize the challenge by coding for all the days of the month but the challenge was worth it. For the 24 days I was able to code and learn consistently, my coding skills have improved and so has my grasp of python programming language. I hope to do the challenge anotehr time. Coding is cool!
+___
 #### Day 24: Tuesday, 25th May 2021
 
 I studied more about linked lists and their implementation in python.
